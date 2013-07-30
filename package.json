@@ -1,33 +1,33 @@
 {
-  "name": "grunt-simple-mocha",
-  "description": "A simple wrapper for running tests with Mocha.",
-  "version": "0.2.0",
-  "homepage": "https://github.com/yaymukund/grunt-simple-mocha",
+  "name": "grunt-simple-vows",
+  "description": "A simple wrapper for running tests with Vows.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/yaymukund/grunt-simple-vows",
 
   "author": {
-    "name": "Mukund Lakshman",
-    "email": "yaymukund@gmail.com",
-    "url": "http://yaymukund.com"
+    "name": "Michael Mior",
+    "email": "michael.mior@gmail.com",
+    "url": "http://michael.mior.ca"
   },
 
   "repository": {
     "type": "git",
-    "url": "git://github.com/yaymukund/grunt-simple-mocha.git"
+    "url": "git://github.com/michaelmior/grunt-simple-vows.git"
   },
 
   "bugs": {
-    "url": "https://github.com/yaymukund/grunt-simple-mocha/issues"
+    "url": "https://github.com/michaelmior/grunt-simple-vows/issues"
   },
 
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/yaymukund/grunt-simple-mocha/blob/master/LICENSE-MIT"
+      "url": "https://github.com/michaelmior/grunt-simple-vows/blob/master/LICENSE-MIT"
     }
   ],
 
   "main": "grunt.js",
-  "bin": "bin/grunt-simple-mocha",
+  "bin": "bin/grunt-simple-vows",
 
   "engines": {
     "node": "*"
@@ -43,7 +43,7 @@
 
   "keywords": [
     "gruntplugin",
-    "mocha",
+    "vows",
     "test"
   ]
 }
